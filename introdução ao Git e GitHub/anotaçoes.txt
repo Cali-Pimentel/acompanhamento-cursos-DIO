@@ -1,3 +1,4 @@
 git clone + "https" clona o repositório do GitHub para a sua máquina.
 git add . add todos os arquivos adicionados recentemente.
-
+git commit -m + "mensagem" 
+git push origin main para empurrar para o GH.
